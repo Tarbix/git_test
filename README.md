@@ -1,1 +1,1 @@
-# git_test
+This is Tarbix's first git project!
